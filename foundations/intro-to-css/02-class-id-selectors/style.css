@@ -7,12 +7,12 @@
     font-size: 24px;
 }
 
-.second {
+#second {
     color: rgb(9, 9, 155);
     font-size: 36px;
 }
 
-.fourth {
+#fourth {
     background-color: rgb(170, 255, 170);
     font-weight: bold;
 }
